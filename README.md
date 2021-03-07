@@ -1,3 +1,3 @@
-Simple StopWatch in React via:
+Simple Stopwatch in React via:
 - React Hooks
 - Props
